@@ -218,6 +218,21 @@ a:-webkit-any-link{
   cursor: pointer;
 }
 
+@media screen and (min-width: 1081px){
+ .Header-logo:hover{
+   opacity: 0.8;
+ }
+  .List-item-link:hover{
+    opacity: 0.8;
+  }
+  .List-item-btn:hover{
+   opacity: 0.8;
+ }
+ .FirstView-btn:hover{
+   opacity: 0.8;
+ }
+}
+
 @media screen and (max-width: 1080px){
   header{
     background-color: #FFF;
