@@ -17,6 +17,7 @@ header{
   position: absolute;
   padding-top: 20px;
   padding-bottom: 20px;
+  z-index: 2;
 }
 .Header-container{
   max-width: 100%;
